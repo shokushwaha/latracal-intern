@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "imgLink": "product1.jpg",
+    "name": "Product 1",
+    "description": "This is the description for Product 1.",
+    "price": 21.99,
+    "details": "More details about Product 1...",
+    "dimensions": "1x2x3 inches"
+  },
+  {
+    "id": 2,
+    "imgLink": "product1.jpg",
+    "name": "Product 2",
+    "description": "This is the description for Product 2.",
+    "price": 23.99,
+    "details": "More details about Product 2...",
+    "dimensions": "2x4x4 inches"
+  },
+  {
+    "id": 3,
+    "imgLink": "product1.jpg",
+    "name": "Product 3",
+    "description": "This is the description for Product 3.",
+    "price": 25.99,
+    "details": "More details about Product 3...",
+    "dimensions": "3x6x5 inches"
+  },
+  {
+    "id": 4,
+    "imgLink": "product1.jpg",
+    "name": "Product 4",
+    "description": "This is the description for Product 4.",
+    "price": 27.99,
+    "details": "More details about Product 4...",
+    "dimensions": "4x8x6 inches"
+  },
+  {
+    "id": 5,
+    "imgLink": "product1.jpg",
+    "name": "Product 5",
+    "description": "This is the description for Product 5.",
+    "price": 29.99,
+    "details": "More details about Product 5...",
+    "dimensions": "5x10x7 inches"
+  },
+  {
+    "id": 6,
+    "imgLink": "product1.jpg",
+    "name": "Product 6",
+    "description": "This is the description for Product 6.",
+    "price": 31.99,
+    "details": "More details about Product 6...",
+    "dimensions": "6x12x8 inches"
+  },
+  {
+    "id": 7,
+    "imgLink": "product1.jpg",
+    "name": "Product 7",
+    "description": "This is the description for Product 7.",
+    "price": 33.989999999999995,
+    "details": "More details about Product 7...",
+    "dimensions": "7x14x9 inches"
+  },
+  {
+    "id": 8,
+    "imgLink": "product1.jpg",
+    "name": "Product 8",
+    "description": "This is the description for Product 8.",
+    "price": 35.989999999999995,
+    "details": "More details about Product 8...",
+    "dimensions": "8x16x10 inches"
+  },
+  {
+    "id": 9,
+    "imgLink": "product1.jpg",
+    "name": "Product 9",
+    "description": "This is the description for Product 9.",
+    "price": 37.989999999999995,
+    "details": "More details about Product 9...",
+    "dimensions": "9x18x11 inches"
+  },
+  {
+    "id": 10,
+    "imgLink": "product1.jpg",
+    "name": "Product 10",
+    "description": "This is the description for Product 10.",
+    "price": 39.989999999999995,
+    "details": "More details about Product 10...",
+    "dimensions": "10x20x12 inches"
+  },
+  {
+    "id": 11,
+    "imgLink": "product1.jpg",
+    "name": "Product 11",
+    "description": "This is the description for Product 11.",
+    "price": 41.989999999999995,
+    "details": "More details about Product 11...",
+    "dimensions": "11x22x13 inches"
+  },
+  {
+    "id": 12,
+    "imgLink": "product1.jpg",
+    "name": "Product 12",
+    "description": "This is the description for Product 12.",
+    "price": 43.989999999999995,
+    "details": "More details about Product 12...",
+    "dimensions": "12x24x14 inches"
+  },
+  {
+    "id": 13,
+    "imgLink": "product1.jpg",
+    "name": "Product 13",
+    "description": "This is the description for Product 13.",
+    "price": 45.989999999999995,
+    "details": "More details about Product 13...",
+    "dimensions": "13x26x15 inches"
+  },
+  {
+    "id": 14,
+    "imgLink": "product1.jpg",
+    "name": "Product 14",
+    "description": "This is the description for Product 14.",
+    "price": 47.989999999999995,
+    "details": "More details about Product 14...",
+    "dimensions": "14x28x16 inches"
+  },
+  {
+    "id": 15,
+    "imgLink": "product1.jpg",
+    "name": "Product 15",
+    "description": "This is the description for Product 15.",
+    "price": 49.989999999999995,
+    "details": "More details about Product 15...",
+    "dimensions": "15x30x17 inches"
+  },
+  {
+    "id": 16,
+    "imgLink": "product1.jpg",
+    "name": "Product 16",
+    "description": "This is the description for Product 16.",
+    "price": 51.989999999999995,
+    "details": "More details about Product 16...",
+    "dimensions": "16x32x18 inches"
+  },
+  {
+    "id": 17,
+    "imgLink": "product1.jpg",
+    "name": "Product 17",
+    "description": "This is the description for Product 17.",
+    "price": 53.989999999999995,
+    "details": "More details about Product 17...",
+    "dimensions": "17x34x19 inches"
+  },
+  {
+    "id": 18,
+    "imgLink": "product1.jpg",
+    "name": "Product 18",
+    "description": "This is the description for Product 18.",
+    "price": 55.989999999999995,
+    "details": "More details about Product 18...",
+    "dimensions": "18x36x20 inches"
+  },
+  {
+    "id": 19,
+    "imgLink": "product1.jpg",
+    "name": "Product 19",
+    "description": "This is the description for Product 19.",
+    "price": 57.989999999999995,
+    "details": "More details about Product 19...",
+    "dimensions": "19x38x21 inches"
+  },
+  {
+    "id": 20,
+    "imgLink": "product1.jpg",
+    "name": "Product 20",
+    "description": "This is the description for Product 20.",
+    "price": 59.989999999999995,
+    "details": "More details about Product 20...",
+    "dimensions": "20x40x22 inches"
+  }
+]
